@@ -8,11 +8,14 @@ Course: ICS4UR
 
 Version: 1.0.0
 
-Date Created: October 2020
+Date Created: November 2020
 
 ## About The Project ##
 
 The purpose of our game, Minesweeper, is to captivate the attention of younger audiences by engaging them in a puzzling objective that strengthens skills related to logic, arithmetic, and algebra. It has come to our attention that younger generations seem to be lacking a sense of problem-solving skills and mathematical ability, both of which are crucial skills that are essential to maintain throughout the course of one’s education, job and overall future lifestyle. This is what led us to create Minesweeper because it will revolutionize the educational journey for younger audience’s by providing them with an engaging tool that will help grasp key learning skills at a young age.
+
+![alt text](https://i.imgur.com/GafFAyU.png)
+![alt text](https://i.imgur.com/vivNbDE.png)
 
 ## Getting Started ##
 
